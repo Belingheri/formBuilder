@@ -1,0 +1,24 @@
+{
+  "name": "nomeProcedura",
+  "type": "SI",
+  "componets": [
+    {
+      "posizione": 1,
+      "nome": "primo",
+      "descrizione": "primocampo",
+      "placeholder": "pl Primo campo",
+      "valore": {
+        "tipo": "string",
+        "valore": "",
+        "pathern": null
+      },
+      "tabellare": {
+        "tabella": 1,
+        "riga": 1,
+        "colonna": 1
+      },
+      "obbligatorio": true,
+      "modificabile": true
+    }
+  ]
+}
